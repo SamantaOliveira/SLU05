@@ -1,0 +1,10 @@
+milk
+bread
+orange
+tomatoes
+cereal
+juice
+onion
+apple
+banana
+carrot
